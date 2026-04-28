@@ -1,0 +1,4 @@
+__pycache__/
+exam_system.db
+*.pyc
+.env
